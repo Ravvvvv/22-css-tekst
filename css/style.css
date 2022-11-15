@@ -1,0 +1,22 @@
+/* Nagłowek */
+h1 {
+ color: #0000ff;
+ text-align: center;
+ height: 20px;
+
+}
+/* P */
+p {
+    
+    color: black;
+    margin-left: 20px; 
+    text-align: center;
+    height: 500em;
+}
+
+/* to */
+span { color: red;
+
+}    
+
+
